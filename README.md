@@ -13,3 +13,16 @@ For more information on Open Source Licenses, please see:
 Ideally, the contents of this project will provide the ability for GitHub to
 automatically include a license file when a new repository is created (much 
 like the way gitignore files are created now).
+
+I welcome the Open Source Initiative to take over official ownership of this
+project/repo as that would ensure accuracy and authenticity of the license
+templates here within.
+
+Guidelines
+----------
+
+ * Content submitted must be accurate, and copied directly from the above URL
+ * Pull requests should include a link to the license at the above URL
+ * Each line of a file must not exceed 78 characters.
+
+ 
