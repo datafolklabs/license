@@ -7,7 +7,7 @@ commit.
 
 For more information on Open Source Licenses, please see:
 
-    * http://www.opensource.org/licenses/
+    http://www.opensource.org/licenses/
 
 
 Ideally, the contents of this project will provide the ability for GitHub to
