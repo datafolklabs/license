@@ -22,5 +22,6 @@ Guidelines
 ----------
 
  * Content submitted must be accurate, and copied directly from the above URL
- * Pull requests should include a link to the license at the above URL
  * Each line of a file must not exceed 78 characters.
+ * The 'Source' URL must be included at the bottom of the license.
+
